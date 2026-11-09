@@ -5,4 +5,5 @@ int main()
 {
     int a, b;
     cout << a + b;
+    cout << "Thay Doi";
 }
